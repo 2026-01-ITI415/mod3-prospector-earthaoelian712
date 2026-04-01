@@ -1,0 +1,54 @@
+{
+  "multiplier": {
+    "x": 1.25,
+    "y": 1.5
+  },
+
+  "slots": [
+    { "id": 0,  "x": -6, "y": 2,  "faceUp": true, "layer": "Row0" },
+    { "id": 1,  "x": -4, "y": 2,  "faceUp": true, "layer": "Row0" },
+    { "id": 2,  "x": -2, "y": 2,  "faceUp": true, "layer": "Row0" },
+    { "id": 3,  "x": 0,  "y": 2,  "faceUp": true, "layer": "Row0" },
+    { "id": 4,  "x": 2,  "y": 2,  "faceUp": true, "layer": "Row0" },
+    { "id": 5,  "x": 4,  "y": 2,  "faceUp": true, "layer": "Row0" },
+    { "id": 6,  "x": 6,  "y": 2,  "faceUp": true, "layer": "Row0" },
+
+    { "id": 7,  "x": -6, "y": 1,  "faceUp": true, "layer": "Row1" },
+    { "id": 8,  "x": -4, "y": 1,  "faceUp": true, "layer": "Row1" },
+    { "id": 9,  "x": -2, "y": 1,  "faceUp": true, "layer": "Row1" },
+    { "id": 10, "x": 0,  "y": 1,  "faceUp": true, "layer": "Row1" },
+    { "id": 11, "x": 2,  "y": 1,  "faceUp": true, "layer": "Row1" },
+    { "id": 12, "x": 4,  "y": 1,  "faceUp": true, "layer": "Row1" },
+    { "id": 13, "x": 6,  "y": 1,  "faceUp": true, "layer": "Row1" },
+
+    { "id": 14, "x": -6, "y": 0,  "faceUp": true, "layer": "Row2" },
+    { "id": 15, "x": -4, "y": 0,  "faceUp": true, "layer": "Row2" },
+    { "id": 16, "x": -2, "y": 0,  "faceUp": true, "layer": "Row2" },
+    { "id": 17, "x": 0,  "y": 0,  "faceUp": true, "layer": "Row2" },
+    { "id": 18, "x": 2,  "y": 0,  "faceUp": true, "layer": "Row2" },
+    { "id": 19, "x": 4,  "y": 0,  "faceUp": true, "layer": "Row2" },
+    { "id": 20, "x": 6,  "y": 0,  "faceUp": true, "layer": "Row2" },
+
+    { "id": 21, "x": -6, "y": -1, "faceUp": true, "layer": "Row3" },
+    { "id": 22, "x": -4, "y": -1, "faceUp": true, "layer": "Row3" },
+    { "id": 23, "x": -2, "y": -1, "faceUp": true, "layer": "Row3" },
+    { "id": 24, "x": 0,  "y": -1, "faceUp": true, "layer": "Row3" },
+    { "id": 25, "x": 2,  "y": -1, "faceUp": true, "layer": "Row3" },
+    { "id": 26, "x": 4,  "y": -1, "faceUp": true, "layer": "Row3" },
+    { "id": 27, "x": 6,  "y": -1, "faceUp": true, "layer": "Row3" }
+  ],
+
+  "drawPile": {
+    "x": 1,
+    "y": -5.2,
+    "layer": "Draw",
+    "xStagger": 0.22
+  },
+
+  "discardPile": {
+    "x": -4.5,
+    "y": -5.2,
+    "layer": "Discard",
+    "xStagger": 0
+  }
+}
