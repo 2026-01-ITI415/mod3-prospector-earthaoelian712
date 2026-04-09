@@ -181,56 +181,49 @@
       "x": -9,
       "y": -1,
       "faceUp": true,
-      "layer": "Row3",
-      "hiddenByString": "28"
+      "layer": "Row3"
     },
     {
       "id": 22,
       "x": -6,
       "y": -1,
       "faceUp": true,
-      "layer": "Row3",
-      "hiddenByString": "29"
+      "layer": "Row3"
     },
     {
       "id": 23,
       "x": -3,
       "y": -1,
       "faceUp": true,
-      "layer": "Row3",
-      "hiddenByString": "30"
+      "layer": "Row3"
     },
     {
       "id": 24,
       "x": 0,
       "y": -1,
       "faceUp": true,
-      "layer": "Row3",
-      "hiddenByString": "31"
+      "layer": "Row3"
     },
     {
       "id": 25,
       "x": 3,
       "y": -1,
       "faceUp": true,
-      "layer": "Row3",
-      "hiddenByString": "32"
+      "layer": "Row3"
     },
     {
       "id": 26,
       "x": 6,
       "y": -1,
       "faceUp": true,
-      "layer": "Row3",
-      "hiddenByString": "33"
+      "layer": "Row3"
     },
     {
       "id": 27,
       "x": 9,
       "y": -1,
       "faceUp": true,
-      "layer": "Row3",
-      "hiddenByString": "36"
+      "layer": "Row3"
     }
   ],
 
